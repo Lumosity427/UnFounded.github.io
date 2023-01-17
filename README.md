@@ -1,2 +1,2 @@
 # UnFounded.github.io
-REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+git clone https://github.com/username/username.github.io
